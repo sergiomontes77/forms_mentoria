@@ -1,5 +1,5 @@
 # forms_mentoria
-<h1>Desafio Explorer - Fase 03 (Iniciante</h1>
+<h1>Desafio Explorer - Fase 03 (Iniciante)</h1>
 
 <p>Criar e compartilhar uma mentoria, este repositório contém um formulário para ajudar pessoas
 e empresas a criar e compartilhar suas mentorias, esta estrutura foi baseada em um desafio
